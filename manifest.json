@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "AgentAnimation",
+        "uuid": "cf823309-e997-0158-d5c2-be446f7aaa38",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 12 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "ea1ac771-e2d4-5088-ff65-f020ff230879",
+            "version": [0, 0, 1]
+        }
+    ]
+}
